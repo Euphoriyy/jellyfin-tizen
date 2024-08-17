@@ -1,0 +1,22 @@
+{
+    "name": "Euphoriyy/jellyfin-tizen",
+    "appName": "Jellyfin for Tizen",
+    "version": "0.0.1",
+    "description": "Jellyfin for Samsung Smart TV (Tizen)",
+    "packageType": "mods",
+    "websiteURL": "https://(your jellyfin link)",
+    "serviceFile": "service.js",
+    "keys": [
+        "MediaPlayPause",
+        "MediaPlay",
+        "MediaPause",
+        "MediaStop",
+        "MediaFastForward",
+        "MediaRewind",
+        "MediaTrackNext",
+        "MediaTrackPrevious"
+    ],
+    "repository": {
+        "url": "https://github.com/reisxd/TizenTube"
+    }
+}
